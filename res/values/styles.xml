@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme">
+        <item>42dp</item>
+    </style>
+    <style name="CustomWindowTitleBackground">
+        <item>@drawable/top_bg</item>
+    </style>
+    <style name="top_theme">
+        <item>@style/CustomTheme</item>
+        <item>@style/CustomWindowTitleBackground</item>
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppTheme">
+    </style>
+    <style name="text_18_ffffff">
+        <item>18dp</item>
+        <item>#ffffffff</item>
+    </style>
+    <style name="text_16_666666">
+        <item>16dp</item>
+        <item>#ffffff</item>
+    </style>
+    <style name="sdw_white">
+        <item>#7fffffff</item>
+        <item>0.0</item>
+        <item>0.65</item>
+        <item>1.0</item>
+    </style>
+    <style name="sdw_79351b">
+        <item>#ff79351b</item>
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+    </style>
+    <style name="text_15_ffffff_sdw">
+        <item>15dp</item>
+        <item>#ffffffff</item>
+    </style>
+    <style name="text_15_666666_sdw">
+        <item>12dp</item>
+        <item>#ffffff</item>
+    </style>
+    <style name="Dialog">
+        <item>?unknown_ref: 106000d</item>
+        <item>true</item>
+        <item>true</item>
+        <item>#00000000</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item>#ffffffff</item>
+        <item>4</item>
+        <item>1</item>
+        <item>@drawable/home_btn_bg</item>
+        <item>2dp</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>2dp</item>
+        <item>?unknown_ref: 0</item>
+        <item>true</item>
+        <item>1.0</item>
+    </style>
+</resources>

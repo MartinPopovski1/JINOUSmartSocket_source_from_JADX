@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:textSize="14sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/menupontbt1" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menupont1" />
+    <Button android:textSize="14sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/menupontbt2" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menupont2" />
+    <Button android:textSize="14sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/menupontbt3" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menupont3" />
+</LinearLayout>

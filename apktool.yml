@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: JINOUSmartSocket.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '18'
+sharedLibrary: false
+unknownFiles:
+  bin/resources.ap_: '8'
+  bin/AndroidManifest.xml: '8'
+  bin/dexedLibs/android-support-v4-8796a4250fbf835c630508c19fa2194f.jar: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

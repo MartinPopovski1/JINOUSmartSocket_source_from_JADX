@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ltgray">#fff4f4f4</drawable>
+    <drawable name="ltyellow">#fffff4db</drawable>
+    <drawable name="black">#ff000000</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="widget_edit_block_bg_normal">?unknown_ref: 106000d</drawable>
+    <drawable name="transparent_background">#99000000</drawable>
+    <drawable name="list_background">#fff4f4f4</drawable>
+    <drawable name="namcard_picker_bkg_normal">#ff272727</drawable>
+    <drawable name="namcard_picker_bkg_hover">#ff333333</drawable>
+</resources>

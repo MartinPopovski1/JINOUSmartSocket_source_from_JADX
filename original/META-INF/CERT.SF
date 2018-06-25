@@ -1,0 +1,197 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: KnwK1lmw92tHaGNSzKVj7Zm58t0=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: cIga++hy5wqjHl9IHSfbg8tqCug=
+
+Name: res/drawable/btn_cancel_pressed.9.png
+SHA1-Digest: OxmaPgNzI8ewVeDSQBO4vzPTO+w=
+
+Name: res/drawable/bottom3.png
+SHA1-Digest: ejonnJTrloN/CpJHk17X/Uvz1DA=
+
+Name: res/layout/main_listitem_device.xml
+SHA1-Digest: hudbo0OsJkDpNIhKPFwwbZ/CJAU=
+
+Name: res/drawable/awdl_icon.png
+SHA1-Digest: FLkMdTAY5BEBIhK3doWf8e7exws=
+
+Name: res/drawable/bg.png
+SHA1-Digest: hzkF1Z9UOTFYBgX3rRXQllxNE9g=
+
+Name: res/drawable/arrowhead_normal.png
+SHA1-Digest: GntE+0OxOEHfiZ8+ZBZ9kPGwEEM=
+
+Name: res/drawable/btn_cancel_normal1.png
+SHA1-Digest: 3tcEEvO7r7s5TYPFFd3RhYEhfGs=
+
+Name: res/drawable/btn_cancel_normal.png
+SHA1-Digest: E6u7XFLy/e/BY6BuPWUKhpW5hK0=
+
+Name: res/drawable/home_btn_bg_n.png
+SHA1-Digest: VH0eqz0W+9raBo/xYXG5HqS7tEw=
+
+Name: res/layout/setpassword_addsocket.xml
+SHA1-Digest: E+4EK7IB3anpevH4TO5lf1xAASQ=
+
+Name: res/drawable/pair_device_image.png
+SHA1-Digest: hNZDL0sdgL0wZFABZEHrLOVuJUs=
+
+Name: res/drawable/arrowhead_cancel_selector.xml
+SHA1-Digest: +BR1vZ9jb0sw0zIQWbI3iXGQggI=
+
+Name: res/drawable/white.png
+SHA1-Digest: hskTubDfuxL6ZelEx/e341RajzQ=
+
+Name: res/drawable/bt_smart.png
+SHA1-Digest: wvGo+iWFY4wd1kyAoETBYK97zaU=
+
+Name: res/drawable/btn_ok_normal.9.png
+SHA1-Digest: SES6VzT+yk0nD2pctCZAtWveTrs=
+
+Name: res/layout/activity_editsocket.xml
+SHA1-Digest: TS678GQmxCayxJLqclw8BUdjkgk=
+
+Name: res/drawable/menu_frametm.png
+SHA1-Digest: 6Fl0bSojikwvyxC2PVNGuNH61Xk=
+
+Name: res/layout/activity_addsocket.xml
+SHA1-Digest: +O10CQ3HRaGu57zaFe4cONQgQgA=
+
+Name: libs/android-support-v4.jar
+SHA1-Digest: /LCkXPef+zFPtgdyC66/5godwyo=
+
+Name: res/layout/dialog_normal_layout.xml
+SHA1-Digest: R0+e+Czq2E+MH1mQh/KQk3RXymc=
+
+Name: res/drawable/bottom1.png
+SHA1-Digest: Qsp5/ur/APYrdJnYt8S36l510SE=
+
+Name: res/drawable/btn_cancel.9.png
+SHA1-Digest: NPszpTwmyKWn5VQg6IYK/BVLR54=
+
+Name: bin/AndroidManifest.xml
+SHA1-Digest: pAnWkn5Jb5ImH0v3RS/ek9lGJaM=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: KKqaLh/DVvFp+v1KoaDw7xETvrI=
+
+Name: res/layout/deivceinformationlinear.xml
+SHA1-Digest: CTAhUNR9pwvO9l5tuPDO2Z+/mFU=
+
+Name: res/drawable/btn_ok_selector.xml
+SHA1-Digest: YoW2oV1TVNdtZIivfuKke7Aswt4=
+
+Name: res/drawable/progressbar_finding.xml
+SHA1-Digest: P4OHkbBxumUL87ubl51yHRGxK8g=
+
+Name: res/drawable/btn_cancel_selector.xml
+SHA1-Digest: Qcfz06cG3ULSLpcXt3wkuXOZEys=
+
+Name: res/drawable/edit_device.png
+SHA1-Digest: R0pq5VVaepWZu7bcHX48+5+NOT4=
+
+Name: res/drawable/top_bg.png
+SHA1-Digest: H/GLtKF15JRVZMdev8BSi8xHGb8=
+
+Name: res/layout/searchsingledevice.xml
+SHA1-Digest: ytF2i8nT/vvOxmr1pbtMXtCVn+o=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: stS7pUucSY0GgAVoESyO3Y7SanU=
+
+Name: res/drawable/maintab_toolbar_bg.png
+SHA1-Digest: NEoxThXq9khwYtle1kbrjBfpCdY=
+
+Name: res/drawable/delete_device.png
+SHA1-Digest: Kgyk+1lLPHp4860pLRHQ4IcnANg=
+
+Name: res/drawable/btn_ok_pressed.9.png
+SHA1-Digest: npbpOowOuZdy/7hux+Td8xRrUds=
+
+Name: res/drawable/home_btn_bg_s.png
+SHA1-Digest: 9qYxym/9Oh5y1VbCxEk+GCeaQ0A=
+
+Name: bin/dexedLibs/android-support-v4-8796a4250fbf835c630508c19fa2194
+ f.jar
+SHA1-Digest: oLEkjGTtiS33ifHz81RvNGZo34w=
+
+Name: res/layout/activity_deivceinformation.xml
+SHA1-Digest: iJR0w2ITpHjG09JajtFSYLYrxn8=
+
+Name: res/layout/activity_welcome.xml
+SHA1-Digest: Po0+sDXjjplwgvFwSlGOcQlWoro=
+
+Name: resources.arsc
+SHA1-Digest: wY7PYYSSiod5ROU2piSScGGoANw=
+
+Name: res/drawable/blue.png
+SHA1-Digest: UvValz+2ksqM3yp/YxKWK2ODJ9I=
+
+Name: res/drawable/arrowhead_pressed.png
+SHA1-Digest: hl6Q4e9KIJWk07SInAc7CPi53SM=
+
+Name: res/drawable/bg_bombbox.9.png
+SHA1-Digest: O/FgNrerjc1JVO9xUQWRdEAqipg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: y3isgNgf8HdlY2gxA9qygySzLZc=
+
+Name: res/layout/dialog_picture_layout.xml
+SHA1-Digest: v7LDAD098sMkSUzeM6sNQnoJOBc=
+
+Name: res/layout/popuplinear.xml
+SHA1-Digest: giV0rpgAY46OLiHkA76guwsFUMk=
+
+Name: res/layout/searchdeviceshow.xml
+SHA1-Digest: 09zF0ceJIIFxewYkOmpzH+DF8YQ=
+
+Name: res/drawable/bottom2.png
+SHA1-Digest: fEJt1WYUfD6KCgn3lHcvapSKi3g=
+
+Name: res/drawable/green.png
+SHA1-Digest: UsAXHa3vA2u6xsRV3pFx9Lbvrv8=
+
+Name: res/layout/editionformation_activity.xml
+SHA1-Digest: DRcbKlkxn3m6EqnGWez52P4hQWE=
+
+Name: res/drawable/home_btn_bg_d.png
+SHA1-Digest: G2fpD9aBqsBZpkBqMjtVuPbn1xs=
+
+Name: res/drawable/layout_buttonstyle.xml
+SHA1-Digest: 5+Avf6yFLAFukhoNIgv7WAiPa/4=
+
+Name: classes.dex
+SHA1-Digest: 9xKB17Dn2DXhz6QpInNFbPcdaUw=
+
+Name: res/menu/main.xml
+SHA1-Digest: x1Z5SAi3UOEzi0sBK8JozV67V4o=
+
+Name: res/layout/activity_editnewsocket.xml
+SHA1-Digest: Gup+8p0WKpTLFaMgDsZLsvgHcSg=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: VY7kOF8E3rn8EUTvQC/DcBEN6kQ=
+
+Name: res/drawable/dialog_bottom_bg.xml
+SHA1-Digest: 2ZeDx2CMGq8k39i7z++mScLBTWU=
+
+Name: bin/resources.ap_
+SHA1-Digest: QzF2iASDyEAw0OPxtq5y7fXfgvo=
+
+Name: res/drawable/home_btn_bg.xml
+SHA1-Digest: LF+Mm80uJjq3u4GTh59sC1iD168=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: V8KvQ7zuXjEok0fd2QbgfSbiyBo=
+
+Name: res/drawable/progressbar_connecting.xml
+SHA1-Digest: bhqs0phJnKZmaFYlr7tutt4eB1Y=
+
+Name: res/layout/useexplain_activity.xml
+SHA1-Digest: lZl3i2TxbWkbjHnHpcJtWBc9cFo=
+
+Name: bin/classes.dex
+SHA1-Digest: YbJugeIe2I+DeAFi3KnAlM7gykk=
+

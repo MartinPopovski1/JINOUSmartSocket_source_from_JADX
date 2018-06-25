@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:background="@drawable/bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/relatlins1" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@+id/lineartop1" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent">
+            <Button android:textSize="16sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/top_left_button" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/leaveButtonText" />
+            <Button android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/top_tx_button" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" />
+            <TextView android:textSize="18sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/top_text" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/mainTitle" />
+            <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@+id/top_right_button" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ProgressBar android:id="@+id/top_right_ProgressBar" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" />
+                <ProgressBar android:id="@+id/top_pb_connecting" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminateDrawable="@drawable/progressbar_connecting" />
+                <Button android:textSize="16sp" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@+id/top_right_bt" android:background="#111111" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/mainmenu" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="vertical" android:id="@+id/linearbottom1" android:background="@drawable/bg" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ListView android:id="@+id/main_list" android:layout_width="match_parent" android:layout_height="match_parent" />
+            <TextView android:textSize="18sp" android:textColor="#ffffff" android:id="@+id/main_text" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/mainNote" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
